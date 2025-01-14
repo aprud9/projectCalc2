@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Globalization;
-using System.Reflection;
-using System.Runtime.ConstrainedExecution;
-using System.Runtime.InteropServices;
-using System.Threading;
 
 public class MainClass
 {
@@ -72,10 +67,12 @@ public class MainClass
                     Console.WriteLine("Результат: " + number1 + " / " + number2 + " = " + (number1 / number2));
                 }
                 else
-                    Console.WriteLine("На ноль делить нельзя!");
+                {
+                        Console.WriteLine("На ноль делить нельзя!");
+                }
             }
             Console.WriteLine();
-            Console.WriteLine("Для продолжения работы нажмите клавишу 'Enter'");
+            Console.WriteLine("Для продолжения работы с новыми числами нажмите клавишу 'Enter'");
             Console.ReadLine();
             Console.Clear();
         }
