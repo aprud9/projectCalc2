@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E634A753-9169-4521-965E-0127E92A2997}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E1DD0DE-9246-4A33-8DEF-A76A6F6847DC}|ConsoleApp2\\ConsoleApp2.csproj|e:\\vs repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E1DD0DE-9246-4A33-8DEF-A76A6F6847DC}|ConsoleApp2\\ConsoleApp2.csproj|E:\\VS repos\\ConsoleApp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E1DD0DE-9246-4A33-8DEF-A76A6F6847DC}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\VS repos\\ConsoleApp2\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01\\Program.cs",
               "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01\\Program.cs",
-              "ToolTip": "E:\\VS repos\\ConsoleApp2\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01\\Program.cs",
-              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACHAAAAAAAAAA==",
+              "ToolTip": "E:\\VS repos\\ConsoleApp2\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01\\Program.cs*",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440 21.01\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T16:18:04.501Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:27:09.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T21:27:09.803Z"
             },
             {
               "$type": "Bookmark",
